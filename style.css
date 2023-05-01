@@ -53,8 +53,5 @@
     border-radius: 10px;
 }
 
-@keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 400% 0; }
   
 }
